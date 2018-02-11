@@ -1,0 +1,24 @@
+{
+  "name": "remove-url-hash",
+  "version": "0.0.1",
+  "description": "remove url's hash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abell123456/remove-url-hash.git"
+  },
+  "keywords": [
+    "remove",
+    "url",
+    "hsah"
+  ],
+  "author": "abell123456",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abell123456/remove-url-hash/issues"
+  },
+  "homepage": "https://github.com/abell123456/remove-url-hash#readme"
+}
